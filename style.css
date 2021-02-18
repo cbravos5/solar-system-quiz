@@ -1,0 +1,10 @@
+.card-text,
+.form-check {
+  font-size: 1.3rem;
+}
+
+input[type='radio'] {
+  width: 1em;
+  height: 1em;
+  margin-left: -1.5rem;
+}
